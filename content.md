@@ -1,4 +1,5 @@
 电商策略 ～ 课程
+E-commerce Strategy
 
 Lee Siu Chong 李秀宗 
 
@@ -81,3 +82,16 @@ redundant
     &nbsp;&nbsp;&nbsp;➡打造能够引流的网络形象<br>
     &nbsp;&nbsp;&nbsp;➡成为专业的手机拍照达人<br>
 </div>
+
+===
+css
+    .myimg{
+        width:300px;
+        height:300px;
+        object-fit:cover;
+        border-radius:50%;
+        }
+
+===
+references
+https://www.myeduhealing.com/
